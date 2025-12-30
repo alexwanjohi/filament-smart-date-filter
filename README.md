@@ -1,5 +1,9 @@
 # Smart Date Filter for Filament v4
 
+[![Latest Version](https://img.shields.io/packagist/v/suleyman/filament-smart-date-filter)](https://packagist.org/packages/suleyman/filament-smart-date-filter)
+[![Total Downloads](https://img.shields.io/packagist/dt/suleyman/filament-smart-date-filter)](https://packagist.org/packages/suleyman/filament-smart-date-filter)
+[![License](https://img.shields.io/packagist/l/suleyman/filament-smart-date-filter)](https://github.com/slym758/filament-smart-date-filter/blob/main/LICENSE)
+
 A premium, feature-rich date range filter for Filament v4 with 14 languages, 23 themes, and dark mode support.
 
 ## Features
@@ -18,6 +22,10 @@ https://hizliresim.com/f03rsks
 https://hizliresim.com/5eqgk8b
 https://hizliresim.com/6utafgf
 https://hizliresim.com/cbka50h
+
+mobile
+https://hizliresim.com/r8jtk8s
+https://hizliresim.com/g5dtjab
 
 ## Installation
 ```bash
